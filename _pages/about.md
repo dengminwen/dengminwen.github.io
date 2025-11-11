@@ -21,9 +21,8 @@ Publications
 ======
 - please visit [my google scholar](https://scholar.google.com/citations?hl=en&user=ITTsOOcAAAAJ)
 
-- [T/CCF 0006-2025 Reinforcement Learning system part 1: General requirements](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843338.shtml) <br>
-
-- [T/CCF 0007-2025 Reinforcement Learning system part 2: Technical requirements for reinforcement learning environment](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843339.shtml) <br>
+- CCF Standards: T/CCF 0006-2025 [Reinforcement Learning system part 1: General requirements](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843338.shtml) <br>
+- CCF Standards: T/CCF 0007-2025 [Reinforcement Learning system part 2: Technical requirements for reinforcement learning environment](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843339.shtml) <br>
 
 
 Talks
@@ -39,7 +38,7 @@ China National Computer Congress 2021, shenzhen china, 2021/10/30
 
 Awards
 ======
-- Edge-Device Large Language Model Competition 1st Place, NeurIPS 2024 Challenge, Team Leader
+- Edge-Device Large Language Model Competition 1st Place, NeurIPS 2024 Challenge, [supervisor of The Team Tinytron](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/leaderboard) 
 - 2024 Tencent Sustainable Social Value Award - Tencent Kai Wu Platform Serving National AI Talent Cultivation, Tencent, Project Leader
 - 2021 Tencent Business Breakthrough Award - Tencent Kai Wu Platform Team, Tencent, Project Leader
 - 2019 Tencent Business Breakthrough Award - Juewu AI Project Team, Tencent, Training-Infrastructure Leader
