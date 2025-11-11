@@ -19,7 +19,7 @@ My research interests include LLM agents, deep reinforcement learning, high perf
 
 Publications
 ======
-todo
+please visit [my google scholar](https://scholar.google.com/citations?hl=en&user=ITTsOOcAAAAJ)
 
 Talks
 ======
