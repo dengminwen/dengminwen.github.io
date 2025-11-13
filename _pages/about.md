@@ -38,8 +38,9 @@ Talks
 
 Awards
 ======
-- 2024 Edge-Device Large Language Model Competition 1st Place, NeurIPS 2024 Challenge, supervisor of The Team Tinytron, [leaderboard](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/leaderboard), [code](https://github.com/Tinytron/edge-llms-challenge-final-submission), [technical report](https://boom-modem-1cc.notion.site/Tinytron-Technical-Report-15d780ce977a8090a988fd8fd796b3c3)
+- 2024 Edge-Device Large Language Model Competition 1st Place, NeurIPS 2024 Competition Track, supervisor of The Team Tinytron, [leaderboard](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/leaderboard), [code](https://github.com/Tinytron/edge-llms-challenge-final-submission), [technical report](https://boom-modem-1cc.notion.site/Tinytron-Technical-Report-15d780ce977a8090a988fd8fd796b3c3)
 - 2024 Tencent Sustainable Social Value Award - Tencent Kai Wu Platform Serving National AI Talent Cultivation, Tencent, Project Leader
+- 2022 AutoML Decathlon 2nd Place, NeurIPS 2022 Competition Track, Team TEG-AutoML, [technical report](https://proceedings.mlr.press/v220/roberts23a/roberts23a.pdf)
 - 2021 Tencent Business Breakthrough Award - Tencent Kai Wu Platform Team, Tencent, Project Leader
 - 2019 Tencent Business Breakthrough Award - Tencent Jue wu AI Project Team, Tencent, Training-Infrastructure Leader
 - 2016 Tencent Technological Breakthrough Award - Wechat search Project, Tencent, Senior developer
