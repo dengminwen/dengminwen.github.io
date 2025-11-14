@@ -54,7 +54,7 @@ Honors
 
 Education
 ======
-- M.S. in Computer Science 2006 - 2009 <br>
+- M.S. in Computer Science, 2006 - 2009 <br>
 [Institute of Computing Technology, Chinese Academy of Sciences](https://www.ict.ac.cn/), China
 
 - B.S. in Computer Science, 2002 - 2006 <br>
