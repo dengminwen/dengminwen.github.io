@@ -51,12 +51,15 @@ Honors
 ======
 - Expert member of the AI-Enabled Talent Cultivation Exploration Group at Sun Yat-sen University, 2025
 - Visiting Researcher at the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2021-2023
-<!-- 
-- Outstanding Scholarship of the Director of the Institute of Computing Technology, 2008, Top 10%
-- Awarded "Outstanding Student" of the Graduate University of Chinese Academy of Sciences for 3 consecutive years, 2006/2007/2008, Top 15%
-- Outstanding Undergraduate Graduate of Sun Yat-sen University, 2006, Top 3%
-- Awarded Sun Yat-sen University Outstanding Student Scholarship for 3 consecutive years, 2003/2004/2005, Top 10%
--->
+
+Education
+======
+- M.S. in Computer Science 2006 - 2009 <br>
+[Institute of Computing Technology, Chinese Academy of Sciences](https://www.ict.ac.cn/), China
+
+- B.S. in Computer Science, 2002 - 2006 <br>
+[Sun Yat-sen University](https://www.sysu.edu.cn/), China
+
 
 
 
