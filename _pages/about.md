@@ -28,7 +28,7 @@ Publications
 Talks
 ======
 - Multi agent Reinforcement Learning for Gaming Industry <br>
-2024 Conference on Multi-Agent Applications In China, chengdu china, 2024/11/16
+[2024 Conference on Multi-Agent Applications In China](https://conf.ccf.org.cn/web/html7/detail.html?channelId=8a9e362c92af20c70192c18385130135&CmsId=f8778f21c80a4c058ae33a429dfdf438&globalId=m1297962559776886784172949998922), chengdu china, 2024/11/16
 
 - The Continuous Path of Tencent Kai Wu Platform <br>
 [China National Computer Congress 2022](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651536047&idx=5&sn=0ae3273cf78ed99bf9c31b0a126a5de8&poc_token=HEcjE2mj20_u_PmPudrPFJWBvZywdQXS3vNiOn7q), Online, 2022/12/8
