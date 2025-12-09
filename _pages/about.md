@@ -21,8 +21,8 @@ Publications
 ======
 - please visit [my google scholar](https://scholar.google.com/citations?hl=en&user=ITTsOOcAAAAJ)
 
-- CCF Standards: T/CCF 0006-2025 [Reinforcement Learning system part 1: General requirements](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843338.shtml) <br>
-- CCF Standards: T/CCF 0007-2025 [Reinforcement Learning system part 2: Technical requirements for reinforcement learning environment](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843339.shtml) <br>
+- Second Author, T/CCF 0006-2025 [Reinforcement Learning system part 1: General requirements](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843338.shtml), China Computer Federation (CCF) Group Standard <br>
+- First Author, T/CCF 0007-2025 [Reinforcement Learning system part 2: Technical requirements for reinforcement learning environment](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843339.shtml), China Computer Federation (CCF) Group Standard <br>
 
 
 Talks
