@@ -27,6 +27,9 @@ Publications
 
 Talks
 ======
+- Co-create a standardized ecosystem for reinforcement learning systems with Tencent AI Arena <br>
+[2026 CCF Standards Conference (CSC 2026)](https://conf.ccf.org.cn/web/html4/index.html?globalId=m1532751696235728896178547808153), shenzhen china, 2026/9/6
+
 - Multi agent Reinforcement Learning for Gaming Industry <br>
 [2024 Conference on Multi-Agent Applications In China](https://conf.ccf.org.cn/web/html7/detail.html?channelId=8a9e362c92af20c70192c18385130135&CmsId=f8778f21c80a4c058ae33a429dfdf438&globalId=m1297962559776886784172949998922), chengdu china, 2024/11/16
 
