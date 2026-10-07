@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Technical Director at Tencent, Shenzhen, China. 
+{% include base_path %}
+
+**[中文简历]({{ base_path }}/cn/)**
+{: .text-right}
+
+I am currently a Technical Director at Tencent, Shenzhen, China.
 
 I graduated with a bachelor's degree from Sun Yat-sen University in 2006 and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2009.
 
