@@ -14,21 +14,21 @@ redirect_from:
 **[中文简历]({{ base_path }}/cn/)**
 {: .text-right}
 
-I am currently a Technical Director at Tencent, Shenzhen, China.
+Minwen Deng is currently a Technical Director at Tencent, based in Shenzhen, China.
 
-I graduated with a bachelor's degree from Sun Yat-sen University in 2006 and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2009.
+He graduated with a bachelor's degree from Sun Yat-sen University in 2006 and a master's degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2009. He joined Alibaba in 2009 and Tencent in 2010.
 
-I has accumulated rich practical experience in two key areas: AI Infrastructure optimization and multi-agent reinforcement learning.
+He has accumulated rich practical experience in two key areas: AI Infrastructure optimization and multi-agent reinforcement learning.
 
-My core achievement is leading the development of [Tencent Kai Wu Platform](https://aiarena.tencent.com/), China's first self-developed open platform for multi-agent reinforcement learning. This platform has significantly improved the R&D efficiency of decision making AI. Meanwhile, I has promoted Reinforcement Learning Systems ecosystem, organizing the Tencent AI Arena Global Open Challenge for many consecutive years. The challenge has attracted hundreds of universities worldwide and cultivated tens of thousands of students. I has also released China's first industry standard "Reinforcement Learning Systems".
+His core achievement is leading the development of [Tencent Kai Wu Platform](https://aiarena.tencent.com/), China's first self-developed open platform for multi-agent reinforcement learning. This platform has significantly improved the R&D efficiency of decision making AI. Meanwhile, he has promoted the Reinforcement Learning Systems ecosystem, organizing the Tencent AI Arena Global Open Challenge for many consecutive years. The challenge has attracted hundreds of universities worldwide and cultivated tens of thousands of students. He has also released China's first industry standard "Reinforcement Learning Systems". In addition, he has published more than ten papers in academic journals and conferences, and led his teams to win multiple domestic and international AI competition awards.
 
-My research interests include LLM agents, deep reinforcement learning, high performance computing and their commercial applications.
+His research interests include LLM agents, deep reinforcement learning, high performance computing and their commercial applications.
 
 Publications
 ======
-- please visit [my google scholar](https://scholar.google.com/citations?hl=en&user=ITTsOOcAAAAJ)
+- Please visit [his Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ITTsOOcAAAAJ)
 
-- Introduction to Artificial Intelligence, Xinhua Publishing House, Jul. 2026, ISBN: 978-7-5166-8398-9, [https://page.om.qq.com/page/Oz82K4pf7BdoHDDjuMTMA6Yg0](https://page.om.qq.com/page/Oz82K4pf7BdoHDDjuMTMA6Yg0)
+- Artificial Intelligence: A General Introduction, Xinhua Publishing House, Jul. 2026, ISBN: 978-7-5166-8398-9, [book page](https://page.om.qq.com/page/Oz82K4pf7BdoHDDjuMTMA6Yg0)
 - Second Author, T/CCF 0006-2025 [Reinforcement Learning system part 1: General requirements](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843338.shtml), China Computer Federation (CCF) Group Standard <br>
 - First Author, T/CCF 0007-2025 [Reinforcement Learning system part 2: Technical requirements for reinforcement learning environment](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843339.shtml), China Computer Federation (CCF) Group Standard <br>
 
@@ -58,17 +58,17 @@ Awards
 - 2014 Tencent Outstanding R&D Award - Tencent Video search Project, Tencent, Senior developer
 - 2010 Tencent Outstanding R&D Award - Tencent Web search Project, Tencent, Senior developer
 
-Honors
+Academic Service
 ======
 - Expert member of the AI-Enabled Talent Cultivation Exploration Group at Sun Yat-sen University, 2025
 - Visiting Researcher at the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 2021-2023
 
 Education
 ======
-- M.S. in Computer Science, 2006 - 2009 <br>
+- M.S. in Computer Software and Theory, 2006 - 2009 <br>
 [Institute of Computing Technology, Chinese Academy of Sciences](https://www.ict.ac.cn/), China
 
-- B.S. in Computer Science, 2002 - 2006 <br>
+- B.S. in Computer Science and Technology, 2002 - 2006 <br>
 [Sun Yat-sen University](https://www.sysu.edu.cn/), China
 
 

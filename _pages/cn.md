@@ -23,7 +23,7 @@ lang: zh
 
 论文与著作
 ======
-- 请访问[我的 Google Scholar 主页](https://scholar.google.com/citations?hl=en&user=ITTsOOcAAAAJ)
+- 请访问[他的 Google Scholar 主页](https://scholar.google.com/citations?hl=en&user=ITTsOOcAAAAJ)
 
 - 《人工智能通识》，新华出版社，2026 年 7 月，ISBN: 978-7-5166-8398-9，[图书介绍](https://page.om.qq.com/page/Oz82K4pf7BdoHDDjuMTMA6Yg0)
 - 第二作者，T/CCF 0006-2025 [《强化学习系统 第1部分：通用要求》](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843338.shtml)，中国计算机学会（CCF）团体标准 <br>
