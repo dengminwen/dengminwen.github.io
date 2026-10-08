@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[中文简历]({{ base_path }}/cn/)**
+**[中文简介]({{ base_path }}/cn/)**
 {: .text-right}
 
 Minwen Deng is currently a Technical Director at Tencent, based in Shenzhen, China.
