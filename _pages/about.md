@@ -28,7 +28,7 @@ Publications
 ======
 - Please visit [his Google Scholar profile](https://scholar.google.com/citations?hl=en&user=ITTsOOcAAAAJ)
 
-- Artificial Intelligence: A General Introduction, Xinhua Publishing House, Jul. 2026, ISBN: 978-7-5166-8398-9, [book page](https://page.om.qq.com/page/Oz82K4pf7BdoHDDjuMTMA6Yg0)
+- Introduction to Artificial Intelligence, Xinhua Publishing House, Jul. 2026, ISBN: 978-7-5166-8398-9, [book page](https://page.om.qq.com/page/Oz82K4pf7BdoHDDjuMTMA6Yg0)
 - Second Author, T/CCF 0006-2025 [Reinforcement Learning system part 1: General requirements](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843338.shtml), China Computer Federation (CCF) Group Standard <br>
 - First Author, T/CCF 0007-2025 [Reinforcement Learning system part 2: Technical requirements for reinforcement learning environment](https://www.ccf.org.cn/Standards/ccfbz/ccf-yfbbz/2025-06-05/843339.shtml), China Computer Federation (CCF) Group Standard <br>
 
