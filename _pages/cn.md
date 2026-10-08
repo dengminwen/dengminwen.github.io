@@ -1,7 +1,7 @@
 ---
 permalink: /cn/
-title: "个人简历"
-description: "邓民文的个人简历：腾讯技术总监，开悟平台负责人，研究方向为多智能体强化学习与 AI 基础设施。"
+title: "个人简介"
+description: "邓民文的个人简介：腾讯技术总监，开悟平台负责人，研究方向为多智能体强化学习与 AI 基础设施。"
 author_profile: true
 lang: zh
 ---
